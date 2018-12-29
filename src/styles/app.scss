@@ -25,19 +25,15 @@ main{
 
   .experience{
     blockquote{
+      background-color: #e9ecef;
       padding-top: 5rem !important;
       .date{
-        font-size: 1.5rem;
-        font-weight: 900;
-        color: #202529;
-        top: -5px;
-        left: -5px;
-        width: 115px;
-        height: 60px;
-        border: solid 2px #f8f9fa;
+        top: 0;
+        left: 0;
+        height: 40px;
         align-items: center;
-        justify-content: center;
-        text-align: center;
+        border: solid 2px #e9ecef;
+        padding: 1rem;
       }
     }
   }
