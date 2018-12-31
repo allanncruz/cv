@@ -26,18 +26,32 @@ main{
   .experience{
     blockquote{
       background-color: #e9ecef;
-      padding-top: 5rem !important;
+      padding-top: 3rem !important;
       .date{
         top: 0;
         left: 0;
         height: 40px;
         align-items: center;
-        border: solid 2px #e9ecef;
-        padding: 1rem;
+        padding: 0 1rem;
+        font-weight: 300;
+        text-transform: uppercase;
+        background: #fff;
       }
     }
   }
+}
 
+.educations{
+  ul{
+    li{
+      display: inline-block;
+      background: #e9ecef;
+      font-size: .8rem;
+      padding: .2rem .6rem;
+      margin: 0.1rem 0;
+      border-radius: .2rem;
+    }
+  }
 }
 
 
