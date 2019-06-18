@@ -1,3 +1,5 @@
-# Landing Trello React.js
+# My Curriculum Vitae
 
-Opening page for project manager tasks and production routines.
+
+
+[Download Curriculum ](http://allancruz.com.br/image/curriculo-allan-cruz.pdf)
