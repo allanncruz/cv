@@ -1,14 +1,11 @@
 body {
   font-family: 'Open Sans', sans-serif;
-}
-p{
-  line-height: 2.1rem;
-  font-size:16px;
+  font-size: 14px;
 }
 
 .bd-example {
   position: relative;
-  padding: 1rem;
+  padding: .9rem;
   margin: 1rem -15px 0;
   border: solid #f7f7f9;
   border-width: .2rem;
@@ -21,30 +18,21 @@ p{
 main{
 
   .about{
-    font-size: 1.1rem;
-
     blockquote {
       color: #788086;
-      &:before{
-        content: "";
-        position: absolute;
-        left: 0;
-        top: 0;
-        background: #eee;
-        width: 8px;
-        height: 100%;
-      }
     }
+  }
 
-    .tags{
-      li{
-        display: inline-block;
-        background: #e9ecef;
-        font-size: .8rem;
-        padding: .2rem .6rem;
-        margin: 0.1rem 0;
-        border-radius: .2rem;
-      }
+
+
+  .tags{
+    li{
+      display: inline-block;
+      background: #e9ecef;
+      padding: .2rem .6rem;
+      margin: 0.1rem 0;
+      border-radius: .2rem;
+      font-size: 12px;
     }
   }
 }
